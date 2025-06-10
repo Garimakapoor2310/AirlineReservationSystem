@@ -1,6 +1,6 @@
 ✈️ Airline Reservation System
 👩‍💻 Developed by: Team Compilers
-Members: Garima Kapoor, Tanisha Soni, Suhani Kumari, Vishal Punia
+Members: Garima Kapoor, Tanisha Son, Suhani Kumari, Vishal Punia
 
 📌 Description
 The Airline Reservation System is a Java-based desktop application that simulates the core functionalities of a flight booking system. It provides a user-friendly graphical interface (built with Java Swing) and demonstrates core Java concepts including object-oriented programming, event-driven development, and modular architecture.
