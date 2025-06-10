@@ -1,31 +1,78 @@
-# ✈️ Airline Reservation System
+✈️ Airline Reservation System
+👩‍💻 Developed by: Team Compilers
+Members: Garima Kapoor, Tanisha Soni, Suhani Kumari, Vishal Punia
 
-This is a simple Java-based Airline Reservation System that supports both **GUI mode (Swing)** and **Terminal mode (Scanner)**. It was built as a college project for learning Java programming concepts.
+📌 Description
+The Airline Reservation System is a Java-based desktop application that simulates the core functionalities of a flight booking system. It provides a user-friendly graphical interface (built with Java Swing) and demonstrates core Java concepts including object-oriented programming, event-driven development, and modular architecture.
 
----
+🚀 Features
+🧍 User Registration & Login
 
-## 📌 Features
+🔍 Flight Search & Availability
 
-- Book airline tickets through a graphical user interface (GUI)
-- Terminal-based interface for command-line interaction
-- Stores basic passenger and flight information
-- Simple and beginner-friendly code structure
+🎟️ Online Ticket Booking
 
----
+❌ Ticket Cancellation & Refunds
 
-## 🛠️ Requirements
+📜 View Booking History
 
-- Java JDK 8 or higher
-- A Java-compatible code editor (like **VS Code**, IntelliJ, or Eclipse)
-- Git (for uploading to GitHub, optional)
+🛠️ Admin Module for Adding/Updating Flights
 
----
+🧠 Real-time data updates with confirmation pop-ups
 
-## 🚀 How to Run the Project
+🧱 Project Structure
+Module	Description
+UI Module	Handles login, registration, and user interactions
+Flight Module	Manages flight data, updates, and search functionality
+Booking Module	Handles ticket bookings, cancellations, and validations
+Database Module	In-memory data structures for storing user and flight info
+Payment Module	(Optional/Planned) Handles future online payments
 
-### 1. Clone or Download the Repository
+🖥️ Technologies Used
+Java (JDK 8+)
 
-If using Git:
-```bash
-git clone https://github.com/YOUR_USERNAME/AirlineReservationSystem.git
-cd AirlineReservationSystem
+Java Swing for GUI
+
+Object-Oriented Programming
+
+Event Handling (ActionListener, JOptionPane, etc.)
+
+Data Structures (ArrayLists, Maps)
+
+🧪 How to Run
+Install Java (JDK 8 or above) on your system.
+
+Clone or Download the project files.
+
+Open the .java files in an IDE like IntelliJ IDEA or Eclipse.
+
+Compile and run the AirlineReservationSystemUI.java file.
+
+bash
+Copy
+Edit
+javac AirlineReservationSystemUI.java
+java AirlineReservationSystemUI
+📊 Screenshots
+(Optional — Add screenshots of the UI here)
+
+📈 Future Enhancements
+📱 Mobile App Version
+
+💳 Online Payment Gateway Integration
+
+🌐 Multi-language Support
+
+🏨 Integration with hotel and taxi booking services
+
+🔐 Enhanced Data Encryption and Security
+
+🧠 Learnings & Highlights
+Hands-on experience with Java GUI programming
+
+Applied principles of modular programming
+
+Built robust input validation and event handling mechanisms
+
+Developed teamwork and collaborative coding skills
+
